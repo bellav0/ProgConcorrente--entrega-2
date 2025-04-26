@@ -29,4 +29,7 @@ Para N = 1000000
 
 
 O cálculo do tempo foi feito usando o código que a professora disponibilizou no lab3 (timer.h)
+
+
+
 Os gráficos estão separados por número de elementos. Assim para N=10³ os gráficos estão na pasta graficos_N=1000 e para 10⁶ na pasta graficos_N=1000000.
