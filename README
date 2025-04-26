@@ -1,5 +1,5 @@
 
-** Dados de execução **
+**Dados de execução**
 
 Para N = 1000
 
@@ -32,7 +32,7 @@ Os gráficos estão separados por número de elementos. Assim para N=10³ os gr�
 
 
 
-**Configurações do computador **
+**Configurações do computador**
 Linux GHBRLPE0CTWED 6.8.0-57-generic #59~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Mar 19 17:07:41 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
 Arquitetura:             x86_64
   CPU op-mode(s):         32-bit, 64-bit
