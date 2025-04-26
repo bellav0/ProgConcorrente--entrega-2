@@ -1,7 +1,7 @@
 # Programação Concorrente-entrega-2
 
 
-** Dados de execução **
+**DADOS DE EXECUÇÃO**
 
 Para N = 1000
 
