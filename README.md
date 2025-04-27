@@ -39,20 +39,37 @@ Os gráficos estão separados por número de elementos. Assim para N=10³ os gr�
 Linux GHBRLPE0CTWED 6.8.0-57-generic #59~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Mar 19 17:07:41 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
 
 Arquitetura:             x86_64
+
   CPU op-mode(s):         32-bit, 64-bit
+  
   Address sizes:          46 bits physical, 48 bits virtual
+  
   Byte Order:             Little Endian
+  
 CPU(s):                   12
+
   On-line CPU(s) list:    0-11
+  
 Vendor ID:                GenuineIntel
+
   Model name:             13th Gen Intel(R) Core(TM) i7-1365U
+  
     CPU family:           6
+    
     Model:                186
+    
     Thread(s) per core:   2
+    
     Core(s) per socket:   10
+    
     Socket(s):            1
-Caches (sum of all):      
+    
+Caches:      
+
   L1d:                    352 KiB (10 instances)
+  
   L1i:                    576 KiB (10 instances)
+  
   L2:                     6,5 MiB (4 instances)
+  
   L3:                     12 MiB (1 instance)
